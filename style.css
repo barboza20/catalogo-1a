@@ -1,4 +1,4 @@
-body {
+ody {
     color: white;
     background: black;
     margin: 0px;
@@ -13,8 +13,8 @@ header {
     color: rgb(42, 122, 228);
 }
 
-section {
-    background: rgb(184,156,213);
+.chamada {
+    background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
